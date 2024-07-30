@@ -20,8 +20,14 @@
 
 Пример использования:
 
+```bash
 python main.py pcap1_file.pcap pcap2_file.pcap --min-length 5 --interval 1
+```
 
 Запустить тесты:
+```bash
 python test.py
+```
+
+
 
